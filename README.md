@@ -20,16 +20,9 @@ I am passionate about building impactful software, continuously improving my tec
 
 <h2 align="center">🏆 LeetCode Streak Badges 🏆</h2>  
 
-<p align="center">
-  <!-- 365 Days -->
-  <a href="https://leetcode.com/u/Rachitsharma_02/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="365 Days Streak" height="200" width="200" />
-  </a>
 
-  <!-- 200 Days -->
-  <a href="https://leetcode.com/u/Rachitsharma_02/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days Streak" height="200" width="200" />
-  </a>
+
+  
 
   <!-- 100 Days -->
   <a href="https://leetcode.com/u/Rachitsharma_02/" target="_blank">
@@ -47,7 +40,7 @@ I am passionate about building impactful software, continuously improving my tec
 ### 🟩 LeetCode Contribution Graph  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akshit109?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Rachitsharma_02?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
 </p>
 ---
 ⭐ _"Code. Secure. Innovate. Repeat."_ 
