@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rachit 👋<br>A Computer Science student passionate about problem solving and building real-world applications.<br><br>* 💻 Full Stack Developer (React, Node.js, Express, MongoDB)<br>* 🧠 Solved 220+ DSA problems on LeetCode<br>* 🚀 Currently building a real-time chat application using Socket.io<br>* 🏆 Participated in hackathons and attended AI workshop at IIT Roorkee<br>* 📚 Learning advanced Data Structures, Backend Development, and System Design<br><br>I enjoy turning ideas into scalable applications and continuously improving my coding skills.<br>
+Hi, I'm Rachit 👋<br>A Computer Science student passionate about problem solving and building real-world applications.<br><br>* 💻 Full Stack Developer (React, Node.js, Express, MongoDB)<br>* 🧠 Solved 218+ DSA problems on LeetCode<br>* 🚀 Currently building a real-time chat application using Socket.io<br>* 🏆 Participated in hackathons and attended AI workshop at IIT Roorkee<br>* 📚 Learning advanced Data Structures, Backend Development, and System Design<br><br>I enjoy turning ideas into scalable applications and continuously improving my coding skills.<br>
 
 
 ## 🌐 Socials:
