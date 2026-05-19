@@ -2,7 +2,7 @@
 🎓 B.Tech Student | 💻 Developer  
 ---
 # 💫 About Me:-
-A Computer Science and Engineering student at GLA University (Class of 2028) with a strong focus on Data Structures & Algorithms and full-stack development.
+A Computer Science and Engineering student at GLA University (Class of 2028) with a strong focus on Data Structure & Algorithms and full-stack development.
 
 I have solved 235+ problems on LeetCode, strengthening my problem-solving skills and algorithmic thinking. I am experienced in building full-stack web applications using HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB.
 
