@@ -13,6 +13,8 @@ I have also participated in hackathons and attended an AI workshop at IIT Roorke
 I am passionate about building impactful software, continuously improving my technical skills, and preparing for high-level product-based companies.
 
 ---
+## 📊 GITHUB STATS
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rachittheguru&show_icons=true&theme=tokyonight&hide_border=true"/>
