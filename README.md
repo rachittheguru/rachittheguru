@@ -13,6 +13,20 @@ I have also participated in hackathons and attended an AI workshop at IIT Roorke
 I am passionate about building impactful software, continuously improving my technical skills, and preparing for high-level product-based companies.
 
 ---
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rachittheguru&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachittheguru&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=rachittheguru&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachittheguru&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+
 ## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rachit_sharma_2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-sharma-14b159326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rachitsharmakkr@gmail.com) 
 # 💻 Tech Stack :
