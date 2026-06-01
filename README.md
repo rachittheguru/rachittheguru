@@ -4,7 +4,7 @@
 # 💫 About Me:-
 A Computer Science and Engineering student at GLA University (Class of 2028) with a strong focus on Data Structure & Algorithms and full-stack development .
 
-I have solved 235+ problems on LeetCode, strengthening my problem-solving skills and algorithmic thinking. I am experienced in building full-stack web applications using HTML, CSS, JavaScript, React, Node.js , Express , and MongoDB .
+I have solved 235+ problems on LeetCode, strengthening my problem-solving skills and algorithmic thinking . I am experienced in building of  full-stack web applications using HTML, CSS, JavaScript, React, Node.js , Express , and MongoDB etc .
 
 Currently, I am working on projects like Notexa and AI Impulse Guard , where I am implementing backend system and database integration to build scalable and real-world applications.
 
