@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rachit Sharma  
+# 👋 Hi , I'm Rachit Sharma  
 🎓 B.Tech Student | 💻 Developer  
 ---
 # 💫 About Me:-
