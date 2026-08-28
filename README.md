@@ -36,6 +36,10 @@ I am passionate about building impactful software, continuously improving my tec
 
 <h2 align="center">🏆 LeetCode Streak Badges 🏆</h2>  
 
+ <a href="https://leetcode.com/u/akshit109/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days Streak" height="200" width="200" />
+  </a>
+
 
 
   
